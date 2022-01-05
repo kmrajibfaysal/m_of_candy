@@ -52,6 +52,10 @@ body {
   transition: background-color 200ms linear;
 }
 
+footer p {
+  color: #bba0bb
+}
+
 @media (max-width: 1300px) {
   #headingGroup h1 {
     font-size: 3rem;
